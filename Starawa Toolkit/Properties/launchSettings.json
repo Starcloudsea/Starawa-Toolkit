@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Starawa Toolkit (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Starawa Toolkit (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

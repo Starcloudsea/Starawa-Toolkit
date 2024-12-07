@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Starawa Toolkit.Tests (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Starawa Toolkit.Tests (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
